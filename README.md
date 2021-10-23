@@ -2,4 +2,7 @@
 
 Submission branches for the Piscine Overloaded assignment.
 
-Fork the repository, checkout to the branch corresponding to your group, complete the assignment and commit it to the branch. Push the changes from your branch to your forked repository. Then, make a pull request from the forked repository's branch to the equivalent branch on the original repository on GitHub.
+1. Fork the repository and checkout to the branch corresponding to your group.
+2. Complete the assignment and commit it to the branch.
+3. Push the changes from your branch to your forked repository. 
+4. Make a pull request from the forked repository's branch to the equivalent branch on the original repository on GitHub.
